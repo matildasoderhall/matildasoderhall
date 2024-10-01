@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-I'm from Sweden and I'm currently studying at Medieinstitutet as a FrontEndDeveloper😊
+- I'm from Sweden and I'm currently studying at Medieinstitutet as a FrontEndDeveloper😊
 
-She/they
+- She/they
 <!--
 **matildasoderhall/matildasoderhall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
